@@ -1,6 +1,6 @@
 # ==============  Pig-Game  ==============
 
-# Website : https://yash-278.github.io/Pig-Game/index.html
+# Live Game : https://yash-278.github.io/Pig-Game/index.html
 
 # GAME RULES:
   - The game has 2 players, playing in rounds
